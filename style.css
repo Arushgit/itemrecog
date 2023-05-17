@@ -1,0 +1,21 @@
+body {
+ background-color: rgb(255, 0, 0);
+ color:#957bf4;
+}
+.heading {
+    width: 80%;
+    font-size: 25px;
+}
+.noo {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+#camera {
+    border: 2px solid black;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+#resultobjectname, #resultobjectaccuracy {
+    color:rgb(34, 178, 159) ;
+}
